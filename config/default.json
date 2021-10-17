@@ -1,0 +1,6 @@
+{
+  "port": 80,
+  "jwtSecret": "sammy",
+  "mongoUri": "mongodb+srv://Sam:42izinew@cluster0.4pai0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost"
+}
